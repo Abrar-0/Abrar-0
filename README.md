@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 # Hello, I'm Abrar Zawad! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Abrar-0&color=brightgreen)
-
 ## About Me 🌟
 - 👨‍💻 Aspiring Frontend Developer passionate about coding and learning new technologies.
 - 🌍 Based in Dhaka.
@@ -28,13 +26,9 @@ Here are some ideas to get you started:
 ## My GitHub Stats 📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abrar-0&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrar-0&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abrar-0&show_icons=true&theme=radical" alt="GitHub Stats" height="195px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrar-0&layout=compact&theme=radical" alt="Top Languages" height="195px"/>
 </p>
-
-## Contact Me 📫
-- [LinkedIn](https://www.linkedin.com/in/abrar-zawad)
-<!-- [Email](mailto:youremail@example.com) -->
 
 ## Fun Facts 🎉
 - 🌱 I’m currently learning Flask and will hop into Typescript.
