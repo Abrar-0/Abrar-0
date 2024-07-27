@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
 ## About Me 🌟
 - 👨‍💻 Aspiring Frontend Developer passionate about coding and learning new technologies.
-- 🌍 Based in Dhaka.
-- 🎓 Bachelors in Computer Science from North South University.
+- 🎓 Computer Science graduate
 - 🚀 Currently working on building my python skills.
 - 💬 Ask me about Python, Javascript and JPOP 😛.
 
