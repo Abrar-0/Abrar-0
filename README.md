@@ -26,17 +26,18 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python, Javascript and JPOP 😛.
 
 ## My GitHub Stats 📊
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Abrar-0&show_icons=true&theme=radical)
 
-## Top Languages 🌐
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abrar-0&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abrar-0&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrar-0&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ## Contact Me 📫
 - [LinkedIn](https://www.linkedin.com/in/abrar-zawad)
-- [Email](mailto:youremail@example.com)
+<!-- [Email](mailto:youremail@example.com) -->
 
 ## Fun Facts 🎉
-- 🌱 I’m currently learning Flask.
+- 🌱 I’m currently learning Flask and will hop into Typescript.
 - 🎮 I love playing Tetris. 🟩🟩🟩🟩
 - 🎵 Avid listener of Zutomayo (My pfp is that band's vocalist 😛).
 
