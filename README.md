@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 # Hello, I'm Abrar Zawad! 👋
 
-## About Me 🌟
-- 👨‍💻 Aspiring Frontend Developer passionate about coding and learning new technologies.
-- 🎓 Computer Science graduate
-- 🚀 Currently working on building my python skills.
-- 💬 Ask me about Python, Javascript and JPOP 😛.
+## About Me 
+-  Aspiring Frontend Developer passionate about coding and learning new technologies.
+-  Computer Science graduate
+-  Currently working on building my python skills.
+-  Ask me about Python, Javascript and JPOP 😛.
 
 ## My GitHub Stats 📊
 
@@ -30,8 +30,7 @@ Here are some ideas to get you started:
 </p>
 
 ## Fun Facts 🎉
-- 🌱 I’m currently learning Flask and will hop into Typescript.
-- 🎮 I love playing Tetris. 🟩🟩🟩🟩
-- 🎵 Avid listener of Zutomayo (My pfp is that band's vocalist 😛).
+-  I’m currently learning Flask and will hop into Typescript.
+-  I love playing Tetris. 🟩🟩🟩🟩
+-  Avid listener of Zutomayo (My pfp is that band's vocalist 😛).
 
-Feel free to check out my repositories and let's connect! 🚀
