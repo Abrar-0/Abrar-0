@@ -22,13 +22,6 @@ Here are some ideas to get you started:
 -  Currently working on building my python skills.
 -  Ask me about Python, Javascript and JPOP 😛.
 
-## My GitHub Stats 📊
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abrar-0&show_icons=true&theme=radical" alt="GitHub Stats" height="195px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrar-0&exclude_repo=python_lesson,Flask_microblog_app,NSU-Bookshop&layout=compact&langs_count=8&theme=radical" alt="Top Languages" height="195px"/>
-</p>
-
 ## Fun Facts 🎉
 -  I’m currently learning Flask and will hop into Typescript.
 -  I love playing Tetris. 🟩🟩🟩🟩
